@@ -1,6 +1,6 @@
 # exerciseDatastructure
 
 datastructure exercise <br>
-- set
-- list 
-- map
+- DataStructureOne: set
+- DataStructureTwo: list 
+- DataStructureThree: map
